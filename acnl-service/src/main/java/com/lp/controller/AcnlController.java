@@ -18,6 +18,7 @@ public class AcnlController {
         System.out.println("Master greet 1);
         System.out.println("Master greet 2);
         System.out.println("Master greet 3);
+        System.out.println("this is get request");
         return "Hello";
     }
 
