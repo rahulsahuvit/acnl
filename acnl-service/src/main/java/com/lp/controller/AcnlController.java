@@ -15,6 +15,7 @@ public class AcnlController {
 
     @GetMapping
     public String get() {
+        System.out.println("this is get request");
         return "Hello";
     }
 
